@@ -5,19 +5,14 @@ main () {
 
 printf ("Hello World/s");
 
+printf ("this is arhaan, the coolest person ever");
+
+printf ("My name is Ananth");
+
+
+
 return (O);
 }
-=======
-//test
-
-//arhaan is swagger:)
-
-//corgicorgicorgi
-
-//arhaan is so cool
-
-
-printf ("this is arhaan, the coolest person ever")
 
 
 
