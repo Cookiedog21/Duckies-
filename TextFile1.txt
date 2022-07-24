@@ -3,13 +3,15 @@
 #include <stdio.h>
 main () {
 
-printf ("Hello World/s");
+printf ("Hello World/n");
 
-printf ("this is arhaan, the coolest person ever");
+printf ("this is arhaan, the coolest person ever/n");
 
-printf ("My name is Ananth");
+printf ("My name is Ananth/n");
 
-printf ("My name is Geet");
+printf ("My name is Geet/n");
+
+printf ("My name is Neha/n");
 
 
 
