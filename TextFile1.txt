@@ -3,18 +3,36 @@
 #include <stdio.h>
 main () {
 
-printf ("Hello World/s");
+printf ("Hello World/n");
 
-printf ("this is arhaan, the coolest person ever");
+<<<<<<< HEAD
+=======
+printf ("this is arhaan, the coolest person ever/n");
 
-printf ("My name is Ananth");
+printf ("My name is Ananth/n");
 
-printf ("My name is Geet");
+printf ("My name is Geet/n");
+
+printf ("My name is Neha/n");
 
 
 
+>>>>>>> 990838ed8f1ef952bbaec5e1c341d08acf3bd0d2
 return (O);
 }
+=======
+//test
+
+//arhaan is swagger:)
+
+//corgicorgicorgi
+
+//arhaan is so cool
+
+
+printf ("this is arhaan, the coolest person ever")
+
+
 
 
 
