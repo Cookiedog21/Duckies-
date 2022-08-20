@@ -47,7 +47,7 @@ ev3.speaker.beep()
 robot.turn(90)
 ev3.speaker.beep()
 
-robot.turn(-90)
+robot.turn(-180)
 ev3.speaker.beep()
 
 
